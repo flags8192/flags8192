@@ -1,4 +1,23 @@
-### Hi there 👋
+<p align="center">
+<h2 align="center"><samp>Hi there 👋</samp></h2>
+</p>
+
+<p align="center">
+  <samp>
+    I like to communicate with different people and share experiences, so if you want to say hello, I
+    glad to meet you! :)
+    <br/>
+    I am currently looking for a job in web development! If you know about available vacancies, if you have any
+    questions or just want to say hello, write to me. I'll be very happy !
+    <br/>
+    <br/>
+    <a href="https://listratenkov.com">About Me</a>
+    ·
+    <a href="mailto:mail@listratenkov.com">Email</a>
+    ·
+    <a href="https://www.linkedin.com/in/listratenkov/">LinkedIn</a>
+  </samp>
+</p>
 
 <!--
 **flags8192/flags8192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
