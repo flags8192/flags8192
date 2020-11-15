@@ -2,6 +2,7 @@
 <h2 align="center"><samp>Hi there 👋</samp></h2>
 </p>
 
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flags8192&theme=dracula&hide=html,shell">
 </a>
@@ -9,7 +10,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=flags8192&show_icons=true&theme=dracula&line_height=33">
 </a>
 
-<p align="center">
   <samp>
     I like to communicate with different people and share experiences, so if you want to say hello, I
     glad to meet you! :)
